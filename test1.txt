@@ -1,3 +1,5 @@
 new file1
+add new txt from local.
+add new txt from local.
 add new txt from cloud9.
 add new txt from cloud9.
